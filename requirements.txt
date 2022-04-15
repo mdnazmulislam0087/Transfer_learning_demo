@@ -4,6 +4,9 @@ seaborn
 numpy
 pandas
 PyYAML
+pandas
+tqdm
+
 
 ## Local Package installation
 -e . ### <<< To install local packages defined in setup.py

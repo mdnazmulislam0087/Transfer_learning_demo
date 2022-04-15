@@ -19,7 +19,7 @@ setup(
     name=SRC_REPO,
     version="0.0.2",
     author=AUTHOR_USER_NAME,
-    description="A small Template for Python Project",
+    description="A small Project on Transfer Learning",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
